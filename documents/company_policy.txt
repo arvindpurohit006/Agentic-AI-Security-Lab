@@ -1,0 +1,5 @@
+Company Security Policy
+
+All remote employees must use the company VPN.
+Multi-factor authentication is mandatory.
+Confidential documents must not be shared externally.
